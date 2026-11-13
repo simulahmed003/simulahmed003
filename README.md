@@ -46,4 +46,4 @@ Verified badges: [Credly profile](https://www.credly.com/users/simul-ahmed)
 
 ## Contact
 
-[Portfolio](https://simul-ahmed.vercel.app) · [LinkedIn](https://www.linkedin.com/in/simulahmed003) · [Credly](https://www.credly.com/users/simul-ahmed) · Open to embedded, PCB design and hardware roles.
+[Portfolio](https://simul-ahmed.vercel.app) · [CV (PDF)](https://github.com/simulahmed003/simulahmed003/blob/main/Simul_Ahmed_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/simulahmed003) · [Credly](https://www.credly.com/users/simul-ahmed) · Open to embedded, PCB design and hardware roles.
