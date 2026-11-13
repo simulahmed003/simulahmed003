@@ -2,7 +2,7 @@
 
 # Simul Ahmed
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-simul--ahmed.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://simul-ahmed.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-simulahmed003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simulahmed003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-simul--ahmed.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://simul-ahmed.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-simulahmed003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simulahmed003) [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/simul-ahmed)
 
 **Embedded systems engineer and PCB designer** · Energy Science and Engineering, KUET · Khulna, Bangladesh
 
@@ -32,6 +32,18 @@ I design, build and test embedded hardware: custom PCBs in Altium Designer, STM3
 **Tools and analysis:** Python · MATLAB / Simulink · LaTeX · Git
 **Interests:** control systems · power electronics · IoT · VLSI physical design
 
+## Certifications
+
+| Credential | Issuer | Date |
+|---|---|---|
+| Altium Skilled Engineer | Altium | Oct 2026 |
+| Embedded Systems Course: Basic Embedded Design | Altium | Sep 2026 |
+| Altium Emerging Engineer | Altium | Jul 2026 |
+| Altium Accredited PCB Design Essentials (On-Demand) | Altium | Jul 2026 |
+| Mars Autonomous Rover Rally, design competition (team member, Team Durbar) | Texas A&M Aerospace Engineering and Space Teams | Dec 2025 |
+
+Verified badges: [Credly profile](https://www.credly.com/users/simul-ahmed)
+
 ## Contact
 
-[Portfolio](https://simul-ahmed.vercel.app) · [LinkedIn](https://www.linkedin.com/in/simulahmed003) · Open to embedded, PCB design and hardware roles.
+[Portfolio](https://simul-ahmed.vercel.app) · [LinkedIn](https://www.linkedin.com/in/simulahmed003) · [Credly](https://www.credly.com/users/simul-ahmed) · Open to embedded, PCB design and hardware roles.
