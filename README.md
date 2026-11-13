@@ -1,16 +1,37 @@
-## Hi there 👋
+<img src="avatar.png" alt="Simul Ahmed" width="150" align="right">
 
-<!--
-**simulahmed003/simulahmed003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Simul Ahmed
 
-Here are some ideas to get you started:
+**Embedded systems engineer and PCB designer** · Energy Science and Engineering, KUET · Khulna, Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design, build and test embedded hardware: custom PCBs in Altium Designer, STM32 / ESP32 firmware, and the control and measurement systems around them. I co-founded a healthcare IoT startup, and I mill my own prototype boards at KUET FabLab.
+
+## Now
+
+- Co-founder and Embedded System Engineer at **Caretron** (healthcare IoT)
+- Founder and Team Lead, **Embedded Innovators KUET**
+- PCB Milling Machine Operator, **FabLab KUET**
+- Studying digital design and physical design for a move into VLSI
+
+## Featured work
+
+| Project | What it is |
+|---|---|
+| [altium-claude-kit](https://github.com/simulahmed003/altium-claude-kit) | Rules, checkers and a managed component library for AI-assisted PCB design with Altium Designer 26 and Claude Code, with human sign-off gates. Its earlier version is [altium-claude-workspace](https://github.com/simulahmed003/altium-claude-workspace). |
+| [pcbtrack](https://github.com/simulahmed003/pcbtrack) | Offline work-hour tracker for PCB designers. It reads the open Altium document and separates schematic, library and layout time. Pure Python standard library. |
+| [Line-Follower](https://github.com/simulahmed003/Line-Follower) | STM32F411 line-following robot with a custom milled PCB and a manually tuned PID loop. |
+| [System-Identification-and-PID-Control-Implementation-on-LFR](https://github.com/simulahmed003/System-Identification-and-PID-Control-Implementation-on-LFR) | Data-driven transfer-function identification and simulation-based PID tuning for a low-cost line follower, with a written report. |
+| [IOT-Water-Temp-Controller](https://github.com/simulahmed003/IOT-Water-Temp-Controller) | ESP32 water-temperature controller with two Altium PCB versions. |
+| [WindTurbine-Datalogger](https://github.com/simulahmed003/WindTurbine-Datalogger) | Wind turbine with voltage and current logging (INA219) and Bluetooth telemetry. |
+| [practical-microcontroller-architecture](https://github.com/simulahmed003/practical-microcontroller-architecture) | A long-term technical book project comparing MCU families (AVR, STM32, ESP32 and others) from the datasheets. |
+
+## Skills
+
+**Hardware:** Altium Designer · schematic capture · double-layer PCB layout · PCB milling and fabrication · LCSC / JLCPCB sourcing
+**Firmware:** STM32 (CubeIDE, HAL) · ESP32 · Arduino · C / C++
+**Tools and analysis:** Python · MATLAB / Simulink · LaTeX · Git
+**Interests:** control systems · power electronics · IoT · VLSI physical design
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/simulahmed003) · Open to embedded, PCB design and hardware roles.
