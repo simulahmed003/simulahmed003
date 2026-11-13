@@ -34,4 +34,4 @@ I design, build and test embedded hardware: custom PCBs in Altium Designer, STM3
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/simulahmed003) · Open to embedded, PCB design and hardware roles.
+[Portfolio](https://simul-ahmed.vercel.app) · [LinkedIn](https://www.linkedin.com/in/simulahmed003) · Open to embedded, PCB design and hardware roles.
